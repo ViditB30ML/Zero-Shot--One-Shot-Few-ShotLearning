@@ -1,7 +1,9 @@
 Welcome !
 Here we have various ML learning techniques from verified sources. This repository will help us to dive into core concepts of Machine Learning.
 
-# A first-level heading
+# Contents
+[Link Text](#contents).
+
 ## A second-level heading
 ### A third-level heading
 
@@ -34,7 +36,7 @@ qwewqeqwewqe
 
 [GitHub Pages](https://pages.github.com/).
 
-Link to the sample section: [Link Text](#sample-section).
 
-Link to the sample section: [Link Text](#source).
+
+
 
