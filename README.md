@@ -1,4 +1,2 @@
-# Zero-Shot--One-Shot-Few-ShotLearning
-The model learns to recognize a new class or perform a task using exactly one example.
-
-https://github.com/github/gh-aw#quick-start
+Welcome !
+Here we have various ML learning techniques from verified sources. This repository will help us to dive into core concepts of Machine Learning.
