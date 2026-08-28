@@ -17,4 +17,11 @@ To get started with preconfigured workflows, browse through the list of template
 > This is a blockquote on GitHub.
 
 > \[!IMPORTANT] For more information about best practices for securing your workflows and secure use of GitHub Actions features, see [Secure use reference](/en/actions/reference/security/secure-use#writing-workflows).
+>
+> <details>
+  <summary>Click here to expand</summary>
+
+  This content is hidden by default. You can include paragraphs, images, or even code blocks here.
+  
+</details>
 
