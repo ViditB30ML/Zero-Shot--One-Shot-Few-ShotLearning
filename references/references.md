@@ -1,13 +1,17 @@
 # References
-1. Synthesizing scientific literature with retrieval-augmented language models
+1. Synthesizing Scientific Literature with Retrieval-Augmented Language Models
+
 Paper Title: Synthesizing scientific literature with retrieval-augmented language models
+
 Authors: Akari Asai, Jacqueline He, Rulin Shao, Weijia Shi, Amanpreet Singh, Joseph Chee Chang, Kyle Lo, Luca Soldaini, Sergey Feldman, Mike D’Arcy, David Wadden, Matt Latzke, Jenna Sparks, Jena D. Hwang, Varsha Kishore, Minyang Tian, Pan Ji, Shengyan Liu, Hao Tong, Bohao Wu, Yanyu Xiong, Luke Zettlemoyer, Graham Neubig, Daniel S. Weld, Doug Downey, Wen-tau Yih, Pang Wei Koh, Hannaneh Hajishirzi
+
 Year: 2026
-Journal/Conference: Nature, Vol. 650, pp. 857–863
-Paper / DOI: DOI: 10.1038/s41586-025-10072-4 — Nature paper
-Relevance: Introduces OpenScholar, a large-scale scientific literature synthesis system with retrieval, citation-backed generation, self-feedback, and ScholarQABench, making it directly relevant to evaluating traceable scientific synthesis. 
-N
-Nature
+
+Journal/Conference: Nature, Volume 650, pp. 857–863
+
+Paper / DOI: https://doi.org/10.1038/s41586-025-10072-4
+
+Relevance: Introduces OpenScholar, a large-scale scientific literature synthesis system that combines retrieval, citation-backed generation, and self-feedback, making it directly relevant to evidence-grounded and traceable scientific literature synthesis.
 
 2. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
 Paper Title: Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
