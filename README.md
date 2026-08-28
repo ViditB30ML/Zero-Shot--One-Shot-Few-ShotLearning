@@ -14,7 +14,7 @@ This guide shows you how to create a basic workflow that is triggered when code 
 
 To get started with preconfigured workflows, browse through the list of templates in the [actions/starter-workflows](https://github.com/actions/starter-workflows) repository. For more information, see [Using workflow templates](/en/actions/how-tos/write-workflows/use-workflow-templates).
 
-\> Checking
+> This is a blockquote on GitHub.
 
 > \[!IMPORTANT] For more information about best practices for securing your workflows and secure use of GitHub Actions features, see [Secure use reference](/en/actions/reference/security/secure-use#writing-workflows).
 
