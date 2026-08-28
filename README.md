@@ -37,8 +37,8 @@ qwewqeqwewqe
 [GitHub Pages](https://pages.github.com/).
 
 
-[^1]: This is the text for the very first footnote.  
-[^2]: This is the text for the second footnote.
+Here is a sentence that requires a first reference[^1]. 
 
+You can also add a completely different second reference later in the paragraph[^2].
 
 
