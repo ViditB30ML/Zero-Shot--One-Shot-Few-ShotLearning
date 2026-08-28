@@ -1,19 +1,34 @@
-Absolutely. Below is a clean, professional GitHub-ready datasets.md version. It uses consistent headings, tables, badges, links, and concise descriptions suitable for an academic repository.
+Certainly — below is a clean, polished, academic-style datasets.md that you can paste directly into your GitHub repository. I’ve preserved your content while improving hierarchy, spacing, tables, visual consistency, code blocks, navigation, and GitHub readability.
 
-Writing
 📊 Datasets & Benchmarks
 
-A curated collection of datasets and benchmarks relevant to evidence traceability, scientific literature synthesis, Retrieval-Augmented Generation (RAG), factual consistency, provenance, and evidence-grounded reasoning.
+A curated collection of datasets and benchmarks for evidence traceability, scientific literature synthesis, Retrieval-Augmented Generation (RAG), factual consistency, provenance, and evidence-grounded reasoning.
 
-These datasets are selected from the 20 core references included in this repository and can support the development and evaluation of evidence-traceability metrics for agentic literature synthesis pipelines.
+These resources are selected from the 20 core references included in this repository and support the development and evaluation of evidence-traceability metrics for agentic literature synthesis pipelines.
 
-📚 Dataset Overview
-#	Dataset / Benchmark	Domain	Primary Focus	Evidence Traceability
+📑 Table of Contents
+📊 Dataset Overview
+1. 🧬 PubMedQA
+2. 🚨 RAGTruth
+3. 🔗 KILT
+4. 🧪 Evidence Inference 20
+📊 Comparative Analysis
+🎯 Dataset-to-Metric Mapping
+🧠 Recommended Evaluation Strategy
+⭐ Why These Four Resources
+📁 Repository Integration
+📚 Related Repository Resources
+🔬 Research Theme
+📊 Dataset Overview
+#	Dataset / Benchmark	Domain	Primary Focus	Traceability
 1	🧬 PubMedQA	Biomedical	Scientific QA & reasoning	⭐⭐⭐⭐
 2	🚨 RAGTruth	RAG / NLP	Hallucination & faithfulness	⭐⭐⭐⭐⭐
 3	🔗 KILT	Knowledge-intensive NLP	Provenance & retrieval	⭐⭐⭐⭐⭐
 4	🧪 Evidence Inference 2.0	Biomedical	Claim–evidence inference	⭐⭐⭐⭐⭐
 1. 🧬 PubMedQA
+
+Evidence-based reasoning over biomedical research literature
+
 📌 Basic Information
 Field	Details
 Name	PubMedQA
@@ -35,9 +50,9 @@ NO
 MAYBE
 
 
-The dataset contains expert-labeled, unlabeled, and artificially generated instances, making it useful for evaluating models at different levels of supervision.
+The dataset contains expert-labeled, unlabeled, and artificially generated instances, making it useful for evaluating models under different supervision settings.
 
-🎯 Application
+🎯 Applications
 
 PubMedQA can be applied to:
 
@@ -52,18 +67,25 @@ Biomedical information retrieval
 
 PubMedQA is useful for evaluating whether an AI system can derive answers from scientific evidence rather than relying exclusively on its internal model knowledge.
 
-This makes it relevant to evaluating evidence-grounded reasoning in literature-synthesis systems.
+This makes it relevant to evaluating evidence-grounded reasoning within literature-synthesis systems.
 
-🔗 Links
-🌐 Official Project Website
-💻 Official GitHub Repository
-📄 Research Paper — ACL Anthology
-🆔 DOI: 10.18653/v1/D19-1259
+🔗 Resources
+Resource	Link
+🌐 Official Project Website	PubMedQA
+
+💻 Official GitHub Repository	pubmedqa/pubmedqa
+
+📄 Research Paper	ACL Anthology
+
+🆔 DOI	10.18653/v1/D19-1259
 📖 Citation
 
 Jin, Q., Dhingra, B., Liu, Z., Cohen, W. W., & Lu, X. (2019). PubMedQA: A Dataset for Biomedical Research Question Answering. Proceedings of EMNLP-IJCNLP 2019, 2567–2577.
 
 2. 🚨 RAGTruth
+
+Fine-grained hallucination analysis for Retrieval-Augmented Generation
+
 📌 Basic Information
 Field	Details
 Name	RAGTruth
@@ -76,7 +98,7 @@ Dataset Type	Hallucination Corpus
 Primary Task	Hallucination and faithfulness detection
 📝 Description
 
-RAGTruth is a corpus designed to study hallucinations in Retrieval-Augmented Generation systems.
+RAGTruth is a corpus designed to study hallucinations in Retrieval-Augmented Generation (RAG) systems.
 
 The resource contains approximately 18,000 naturally generated RAG responses, with annotations identifying hallucinated content at fine-grained levels.
 
@@ -88,14 +110,14 @@ Word-level hallucination annotations
 Hallucination spans
 Unsupported content
 Contradictory content
-🎯 Application
+🎯 Applications
 
 RAGTruth can be used for:
 
 Hallucination detection
 RAG evaluation
 Faithfulness evaluation
-Unsupported claim detection
+Unsupported-claim detection
 Contradiction detection
 Fine-grained factuality analysis
 Training hallucination detectors
@@ -104,26 +126,32 @@ Evaluating evidence-grounded generation
 
 Evidence traceability requires determining whether generated claims are actually supported by the evidence retrieved by an AI system.
 
-RAGTruth therefore provides a useful foundation for metrics such as:
+RAGTruth can therefore support metrics such as:
 
 Unsupported Claim Rate
-        ↓
+          ↓
 Contradiction Rate
-        ↓
+          ↓
 Claim-Level Faithfulness
-        ↓
+          ↓
 Evidence-Supported Content Ratio
 
-🔗 Links
-💻 Official GitHub Repository
-📄 Research Paper — ACL Anthology
-🆔 DOI: 10.18653/v1/2024.acl-long.585
-📄 arXiv
+🔗 Resources
+Resource	Link
+💻 Official GitHub Repository	ParticleMedia/RAGTruth
+
+📄 Research Paper	ACL Anthology
+
+🆔 DOI	10.18653/v1/2024.acl-long.585
+📄 arXiv	arXiv:2401.00396
 📖 Citation
 
 Niu, C., Wu, Y., Zhu, J., Xu, S., Shum, K., Zhong, R., Song, J., & Zhang, T. (2024). RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, 10862–10878.
 
 3. 🔗 KILT
+
+A provenance-aware benchmark for knowledge-intensive NLP
+
 📌 Basic Information
 Field	Details
 Name	KILT
@@ -143,19 +171,23 @@ A major feature of KILT is its explicit representation of provenance.
 The benchmark connects:
 
 Input
-  ↓
+  │
+  ▼
 Retrieved Evidence
-  ↓
+  │
+  ▼
 Evidence Location
-  ↓
+  │
+  ▼
 Generated Answer
-  ↓
+  │
+  ▼
 Provenance
 
 
-This makes KILT particularly valuable for research involving evidence attribution and traceability.
+This makes KILT particularly valuable for research involving evidence attribution, source localization, and traceability.
 
-🎯 Application
+🎯 Applications
 
 KILT can be applied to:
 
@@ -179,20 +211,28 @@ Provenance Completeness
 Evidence Recall
 Claim–Evidence Alignment
 Source Attribution
-🔗 Links
-💻 Official GitHub Repository
-🌐 KILT Benchmark
-📄 Research Paper — ACL Anthology
-📄 arXiv
-🆔 DOI: 10.18653/v1/2021.naacl-main.200
+⚠️ Repository Status
 
-⚠️ Repository note: The original KILT GitHub repository is archived/read-only. It remains useful as a scholarly benchmark and source of implementation materials.
+Note: The original KILT GitHub repository is archived/read-only. It remains useful as a scholarly benchmark and as a source of implementation materials.
 
+🔗 Resources
+Resource	Link
+💻 Official GitHub Repository	facebookresearch/KILT
+
+🌐 KILT Benchmark	kiltbenchmark.com
+📄 Research Paper	ACL Anthology
+
+📄 arXiv	arXiv:2009.02252
+
+🆔 DOI	10.18653/v1/2021.naacl-main.200
 📖 Citation
 
 Petroni, F., Piktus, A., Fan, A., Lewis, P., Yazdani, M., De Cao, N., Thorne, J., Jernite, Y., Karpukhin, V., Maillard, J., Plachouras, V., Rocktäschel, T., & Riedel, S. (2021). KILT: A Benchmark for Knowledge Intensive Language Tasks. Proceedings of NAACL-HLT 2021, 2523–2544.
 
 4. 🧪 Evidence Inference 2.0
+
+Explicit claim–evidence inference from biomedical research literature
+
 📌 Basic Information
 Field	Details
 Name	Evidence Inference 2.0
@@ -224,7 +264,7 @@ Inference / Conclusion
 
 The dataset provides supporting evidence spans, making it particularly useful for studying explicit claim–evidence relationships.
 
-🎯 Application
+🎯 Applications
 
 Evidence Inference 2.0 can be used for:
 
@@ -248,18 +288,22 @@ Claim–Evidence Alignment
 Supporting Evidence Coverage
 Evidence Selection Accuracy
 
-🔗 Links
-💻 Official GitHub Repository
-🌐 Evidence Inference Project
-📄 Research Paper — ACL Anthology
-📄 arXiv
-🆔 DOI: 10.18653/v1/2020.bionlp-1.13
+🔗 Resources
+Resource	Link
+💻 Official GitHub Repository	jayded/evidence-inference
+
+🌐 Evidence Inference Project	evidence-inference.ebm-nlp.com
+📄 Research Paper	ACL Anthology
+
+📄 arXiv	arXiv:2005.04177
+
+🆔 DOI	10.18653/v1/2020.bionlp-1.13
 📖 Citation
 
 DeYoung, J., Lehman, E., Nye, B., Marshall, I., & Wallace, B. C. (2020). Evidence Inference 2.0: More Data, Better Models. Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing, 123–132.
 
 📊 Comparative Analysis
-Feature	PubMedQA	RAGTruth	KILT	Evidence Inference 2.0
+Feature	🧬 PubMedQA	🚨 RAGTruth	🔗 KILT	🧪 Evidence Inference 2.0
 Scientific Literature	✅	◐	◐	✅
 Evidence Grounding	✅	✅	✅	✅
 Claim-Level Analysis	◐	✅	✅	✅
@@ -270,10 +314,11 @@ RAG Evaluation	◐	✅	✅	◐
 Biomedical Focus	✅	❌	❌	✅
 Scientific Reasoning	✅	◐	◐	✅
 Traceability Research	⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-
-Legend:
-✅ Strong support · ◐ Partial/indirect support · ❌ Not a primary focus
-
+Legend
+✅ Strong support
+◐ Partial / indirect support
+❌ Not a primary focus
+⭐ Relative relevance to evidence-traceability research
 🎯 Dataset-to-Metric Mapping
 
 The four resources can be mapped to complementary dimensions of an evidence-traceability framework.
@@ -291,68 +336,103 @@ Proposed Metric	Best-Suited Resource
 🔬 Scientific Evidence Grounding	PubMedQA / Evidence Inference 2.0
 🧠 Recommended Evaluation Strategy
 
-For an agentic literature synthesis pipeline, these datasets can be combined rather than treated as interchangeable.
+For an agentic literature-synthesis pipeline, these datasets should be viewed as complementary resources rather than interchangeable benchmarks.
 
-                 Agentic Research System
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │   Retrieval   │
-                  └───────┬───────┘
-                          │
-                     ┌────▼────┐
-                     │  KILT   │
-                     └────┬────┘
-                          │
-                          ▼
-                 Evidence Selection
-                          │
-                     ┌────▼─────────────┐
-                     │ Evidence         │
-                     │ Inference 2.0    │
-                     └────┬─────────────┘
-                          │
-                          ▼
-                    Claim Formation
-                          │
-                     ┌────▼────┐
-                     │PubMedQA │
-                     └────┬────┘
-                          │
-                          ▼
-                   Generated Synthesis
-                          │
-                     ┌────▼─────┐
-                     │ RAGTruth │
-                     └────┬─────┘
-                          │
-                          ▼
-                 Faithfulness Audit
-                          │
-                          ▼
-                Evidence Traceability
+                    ┌──────────────────────────┐
+                    │   Agentic Research       │
+                    │        System            │
+                    └────────────┬─────────────┘
+                                 │
+                                 ▼
+                       ┌──────────────────┐
+                       │    Retrieval     │
+                       └────────┬─────────┘
+                                │
+                                ▼
+                         ┌────────────┐
+                         │    KILT    │
+                         │ Provenance │
+                         └─────┬──────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Evidence Selection   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                   ┌────────────────────────┐
+                   │ Evidence Inference 2.0│
+                   │ Claim–Evidence Linking │
+                   └────────────┬───────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │ Claim Formation │
+                       └────────┬────────┘
+                                │
+                                ▼
+                         ┌────────────┐
+                         │  PubMedQA  │
+                         │  Reasoning │
+                         └─────┬──────┘
+                               │
+                               ▼
+                      ┌──────────────────┐
+                      │ Generated Report │
+                      └────────┬─────────┘
+                               │
+                               ▼
+                         ┌────────────┐
+                         │  RAGTruth  │
+                         │ Faithfulness│
+                         └─────┬──────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Evidence Traceability│
+                    │       Audit         │
+                    └─────────────────────┘
 
 ⭐ Why These Four Resources?
 
-Together, these datasets cover four complementary dimensions:
+Together, these resources cover four complementary dimensions of evidence-grounded research.
 
-🧬 PubMedQA
+Resource	Core Contribution
+🧬 PubMedQA	Scientific evidence-based reasoning
+🚨 RAGTruth	Faithfulness and hallucination detection
+🔗 KILT	Retrieval and provenance
+🧪 Evidence Inference 2.0	Explicit claim–evidence relationships
+Combined Research Value
+          Scientific Reasoning
+                  │
+                  ▼
+             PubMedQA
+                  │
+                  ▼
+        Claim–Evidence Linking
+                  │
+                  ▼
+       Evidence Inference 2.0
+                  │
+                  ▼
+       Retrieval + Provenance
+                  │
+                  ▼
+                KILT
+                  │
+                  ▼
+      Faithfulness Verification
+                  │
+                  ▼
+              RAGTruth
+                  │
+                  ▼
+       ┌─────────────────────┐
+       │ Evidence Traceability│
+       └─────────────────────┘
 
-Scientific evidence-based reasoning
 
-🚨 RAGTruth
-
-Faithfulness and hallucination detection
-
-🔗 KILT
-
-Retrieval and provenance
-
-🧪 Evidence Inference 2.0
-
-Explicit claim–evidence relationships
-
-This combination provides a strong foundation for developing a multidimensional evidence-traceability evaluation framework rather than relying on a single metric.
+Research takeaway: Combining these resources enables evaluation across retrieval, evidence selection, claim formation, provenance, scientific reasoning, and final-answer faithfulness.
 
 📁 Repository Integration
 
@@ -383,18 +463,41 @@ Recommended repository structure:
     └── tutorials.md
 
 📚 Related Repository Resources
-📄 AI-Assisted Research Paper
-📚 Research References
-🔍 Citation Integrity Audit
-🛠️ Tools & Libraries
-💻 GitHub Implementations
+Resource	Description
+📄 AI-Assisted Research Paper	Main research paper
+📚 Research References	Curated scholarly references
+🔍 Citation Integrity Audit	Reference and citation verification
+🛠️ Tools & Libraries	Relevant research tools
+💻 GitHub Implementations	Open-source implementations
 🔬 Research Theme
-
 Evidence → Attribution → Provenance → Verification → Trust
 
-These datasets collectively support the development of transparent, measurable, and auditable evidence-traceability mechanisms for agentic literature synthesis systems.
+The datasets in this collection provide complementary resources for building transparent, measurable, reproducible, and auditable evidence-traceability mechanisms for agentic literature-synthesis systems.
+
+The broader research objective is to move beyond evaluating whether an AI-generated report sounds correct toward evaluating whether every important research claim can be:
+
+Retrieved → Supported → Attributed → Verified → Reconstructed
+
+🌟 Final Perspective
+
+A trustworthy agentic literature-synthesis system should not be evaluated solely on the fluency or correctness of its final answer.
+
+It should also be evaluated on its ability to:
+
+🔎 Retrieve relevant evidence
+📌 Select appropriate sources
+🔗 Connect claims to evidence
+🧾 Preserve provenance
+📚 Produce accurate citations
+🚨 Avoid unsupported claims
+♻️ Enable reconstruction of its research process
+
+These four datasets provide a practical starting point for developing such a multidimensional evidence-traceability evaluation framework.
 
 <p align="center">
+🔬 Evidence → Attribution → Provenance → Verification → Trust
+
+Building transparent and auditable AI-assisted scientific research.
 
 ⭐ If this resource is useful for your research, consider starring the repository!
 
