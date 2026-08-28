@@ -37,12 +37,8 @@ qwewqeqwewqe
 [GitHub Pages](https://pages.github.com/).
 
 
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.  
-[^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
-This is a second line.
-
+[^1]: This is the text for the very first footnote.
+[^2]: This is the text for the second footnote.
 
 
 
