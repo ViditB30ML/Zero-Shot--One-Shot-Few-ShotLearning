@@ -36,6 +36,13 @@ qwewqeqwewqe
 
 [GitHub Pages](https://pages.github.com/).
 
+## Code of conduct
+
+This project has adopted a [Code of Conduct][code-of-conduct]. By participating, you agree to abide by its terms.
+
+## Support
+
+For help, questions, and how to file issues, see [`SUPPORT.md`][support].
 
 Here is a sentence that requires a first reference[^1].
 You can also add a completely different second reference later in the paragraph[^2].
