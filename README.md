@@ -33,3 +33,8 @@ To get started with preconfigured workflows, browse through the list of template
 qwewqeqwewqe
 
 [GitHub Pages](https://pages.github.com/).
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the sample section: [Link Text](#source).
+
