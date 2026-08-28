@@ -37,7 +37,7 @@ qwewqeqwewqe
 [GitHub Pages](https://pages.github.com/).
 
 
-[^1]: This is the text for the very first footnote.
+[^1]: This is the text for the very first footnote.  
 [^2]: This is the text for the second footnote.
 
 
