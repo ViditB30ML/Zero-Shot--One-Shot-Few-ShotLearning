@@ -18,7 +18,8 @@ To get started with preconfigured workflows, browse through the list of template
 
 > \[!IMPORTANT] For more information about best practices for securing your workflows and secure use of GitHub Actions features, see [Secure use reference](/en/actions/reference/security/secure-use#writing-workflows).
 >
-> <details>
+
+<details>
   <summary>Click here to expand</summary>
 
   This content is hidden by default. You can include paragraphs, images, or even code blocks here.
