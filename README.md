@@ -37,8 +37,7 @@ qwewqeqwewqe
 [GitHub Pages](https://pages.github.com/).
 
 
-Here is a sentence that requires a first reference[^1]. 
-
+Here is a sentence that requires a first reference[^1].
 You can also add a completely different second reference later in the paragraph[^2].
 
 
