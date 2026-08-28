@@ -37,7 +37,7 @@ qwewqeqwewqe
 [GitHub Pages](https://pages.github.com/).
 
 
-Notes[^2].
+Notes [^2].
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
