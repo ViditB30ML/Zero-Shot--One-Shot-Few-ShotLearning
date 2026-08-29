@@ -67,98 +67,46 @@ The papers are organized into three categories:
 ## 📖 Survey Papers
 
 ### 1. Retrieval-Augmented Generation for Large Language Models: A Survey
-
 ---
-
 ### 2. TRUE: Re-evaluating Factual Consistency Evaluation
-
-
 ---
-
 ## 🏛️ Foundational Papers
-
-### 3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-
-
-
+**3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**
 ---
-
-### 4. Provenance in Collection-Oriented Scientific Workflows
-
-
-
+**4. Provenance in Collection-Oriented Scientific Workflows**
 ---
-
-### 5. KILT: A Benchmark for Knowledge Intensive Language Tasks
-
-
-
+**5. KILT: A Benchmark for Knowledge Intensive Language Tasks**
 ---
-
-### 6. Evidence Inference 2.0: More Data, Better Models
-
-
+**6. Evidence Inference 2.0: More Data, Better Models**
 ---
-
-### 7. Enabling Large Language Models to Generate Text with Citations
-
-
+**7. Enabling Large Language Models to Generate Text with Citations**
 ---
-
-### 8. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
-
-
-
+**8. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation**
 ---
-
-### 9. PubMedQA: A Dataset for Biomedical Research Question Answering
-
+**9. PubMedQA: A Dataset for Biomedical Research Question Answering**
 ---
-
-### 10. RAGAs: Automated Evaluation of Retrieval Augmented Generation
-
+**10. RAGAs: Automated Evaluation of Retrieval Augmented Generation**
 ---
-
-### 11. ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
-
+**11. ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems**
 ---
-
 ## 🚀 Recent Research Papers
-
-### 12. Synthesizing Scientific Literature with Retrieval-Augmented Language Models
-
+**12. Synthesizing Scientific Literature with Retrieval-Augmented Language Models**
 ---
-
-### 13. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
-
+**13. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents**
 ---
-
-### 14. Agent Laboratory: Using LLM Agents as Research Assistants
-
+**14. Agent Laboratory: Using LLM Agents as Research Assistants**
 ---
-
-### 15. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
-
+**15. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**
 ---
-
-### 16. RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
-
+**16. RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**
 ---
-
-### 17. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics
-
+**17. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**
 ---
-
-### 18. Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models
-
+**18. Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models**
 ---
-
-### 19. PaperQA: Retrieval-Augmented Generative Agent for Scientific Research
-
+**19. PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**
 ---
-
-### 20. FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows
-
+**20. FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows**
 ---
 
 ## 📊 Category Summary
