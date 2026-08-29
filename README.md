@@ -3,35 +3,16 @@
 Welcome to the ultimate resource hub for researchers and practitioners dedicated to advancing **evidence-traceability metrics** in **agentic literature synthesis pipelines**. This curated collection brings together cutting-edge papers, datasets, tools, implementations, and tutorials to foster transparency, reproducibility, and accountability in automated literature synthesis.
 
 ---
-
-## 🚀 What’s Inside
-
-- **Overview:** Introduction & purpose
-- **Research Papers:** Foundational and recent studies
-- **Survey & Foundational Papers:** Key survey articles and core concepts
-- **Recent Research:** Latest updates and frameworks
-- **Datasets:** Benchmark data and annotations
-- **Tools & Libraries:** Essential software for your projects
-- **GitHub Implementations:** Practical code repositories
-- **Tutorials:** Step-by-step guides
-- **Citation Integrity Audit:** Ensuring reference accuracy
-- **License:** Usage rights & permissions
-
----
 ## 🚀 What’s Inside
 - [Overview](#overview)
 - [AI-Assisted Research Paper](#ai-assisted-research-paper)
-- [Citation Integrity Audit](#citation-integrity-audit)
-- [Claim-Citation Audit](#claim-citation-audit)
 - [Survey and Review Papers](#survey-and-review-papers)
 - [Foundational and Calibration Papers](#foundational-and-calibration-papers)
-- [Token and Semantic Uncertainty](#token-and-semantic-uncertainty)
-- [Hallucination and Factuality Evaluation](#hallucination-and-factuality-evaluation)
-- [Mitigation and Verifiability](#mitigation-and-verifiability)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Tools and Libraries](#tools-and-libraries)
 - [GitHub Implementations](#github-implementations)
 - [Tutorials and Learning Resources](#tutorials-and-learning-resources)
+- [Citation Integrity Audit](#citation-integrity-audit)
 - [License](#license)
 
 
