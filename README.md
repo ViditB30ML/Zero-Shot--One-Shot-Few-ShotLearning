@@ -15,7 +15,22 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - [🎓 Tutorials](#-tutorials)
 - [🔍 Citation Integrity Audit](#-citation-integrity-audit)
 - [📜 License](#-license)
+---
 
+Here is a polished GitHub-ready Overview section suitable for your README.md:
+
+## 🔬 Overview
+
+**Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines** focuses on developing systematic methods for measuring how reliably AI agents retrieve, interpret, synthesize, and cite scientific evidence. As large language models and agentic systems increasingly support literature reviews and research discovery, evaluating the quality of the final generated text alone is insufficient. A trustworthy literature-synthesis pipeline must also make the underlying evidence chain transparent, verifiable, and reproducible.
+
+Evidence traceability refers to the ability to follow a generated claim back through its supporting evidence, source document, retrieval process, citation, and relevant agent actions. This research area therefore connects **Retrieval-Augmented Generation (RAG), scientific information retrieval, citation evaluation, factuality assessment, provenance tracking, agent observability, and reproducible research**.
+
+The central objective is to develop **quantitative and interpretable metrics** that evaluate different stages of an agentic research workflow. Potential dimensions include retrieval coverage, evidence relevance, claim–evidence alignment, citation correctness, evidence completeness, factual faithfulness, provenance completeness, hallucination rate, and workflow traceability.
+
+A multidimensional evaluation framework can help researchers identify where an agentic literature-synthesis system succeeds or fails—from finding appropriate scientific sources to producing claims that are accurately supported by those sources. Ultimately, evidence-traceability metrics can contribute to the development of **transparent, auditable, reproducible, and trustworthy AI-assisted research systems**.
+
+> **Research principle:**  
+> **Question → Retrieval → Evidence → Claim → Citation → Provenance → Verification → Trust**
 ---
 ## 📃AI-Assisted Research Paper
 
