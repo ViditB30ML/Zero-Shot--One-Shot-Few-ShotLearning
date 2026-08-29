@@ -1,6 +1,7 @@
-Certainly! Here are some GitHub repositories relevant to the topic “Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines.” Each entry includes the requested details to help you identify useful resources for your research:
+# GitHub Implementations
 
----
+This section contains open-source GitHub repositories related to LLM factuality, hallucination detection, scientific claim verification, retrieval-augmented generation (RAG), and LLM evaluation.
+
 
 ### 1. **LitSynthesisFramework**
 - **Repository:** https://github.com/example/LitSynthesisFramework
