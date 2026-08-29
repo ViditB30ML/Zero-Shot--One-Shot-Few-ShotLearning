@@ -52,13 +52,126 @@ This repository includes the AI-assisted research paper prepared for the researc
 
 ## 📚 Survey & Foundational Papers
 
-- **Surveys:**
-  - [Literature Synthesis Techniques](papers/Survey_Lit_Synthesis.pdf)
-  - [Traceability in Automated Literature Reviews](papers/Traceability_Survey.pdf)
-- **Foundations:**
-  - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
-  - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
-    
+## 📚 Curated Research Papers
+
+A curated selection of scholarly works supporting the research theme **“Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines.”**
+
+The papers are organized into three categories:
+
+- 📖 **Survey Papers** — synthesize existing research and establish the broader technical landscape.
+- 🏛️ **Foundational Papers** — introduce core methods, benchmarks, evaluation paradigms, or provenance concepts.
+- 🚀 **Recent Research Papers** — address contemporary RAG, citation evaluation, agentic research, and scientific literature synthesis.
+
+---
+
+## 📖 Survey Papers
+
+### 1. Retrieval-Augmented Generation for Large Language Models: A Survey
+
+---
+
+### 2. TRUE: Re-evaluating Factual Consistency Evaluation
+
+
+---
+
+## 🏛️ Foundational Papers
+
+### 3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
+
+
+---
+
+### 4. Provenance in Collection-Oriented Scientific Workflows
+
+
+
+---
+
+### 5. KILT: A Benchmark for Knowledge Intensive Language Tasks
+
+
+
+---
+
+### 6. Evidence Inference 2.0: More Data, Better Models
+
+
+---
+
+### 7. Enabling Large Language Models to Generate Text with Citations
+
+
+---
+
+### 8. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
+
+
+
+---
+
+### 9. PubMedQA: A Dataset for Biomedical Research Question Answering
+
+---
+
+### 10. RAGAs: Automated Evaluation of Retrieval Augmented Generation
+
+---
+
+### 11. ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
+
+---
+
+## 🚀 Recent Research Papers
+
+### 12. Synthesizing Scientific Literature with Retrieval-Augmented Language Models
+
+---
+
+### 13. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
+
+---
+
+### 14. Agent Laboratory: Using LLM Agents as Research Assistants
+
+---
+
+### 15. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
+
+---
+
+### 16. RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
+
+---
+
+### 17. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics
+
+---
+
+### 18. Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models
+
+---
+
+### 19. PaperQA: Retrieval-Augmented Generative Agent for Scientific Research
+
+---
+
+### 20. FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows
+
+---
+
+## 📊 Category Summary
+
+| Category | Number of Papers | Primary Contribution |
+|---|---:|---|
+| 📖 **Survey Papers** | 2 | RAG and factual-consistency landscape |
+| 🏛️ **Foundational Papers** | 9 | RAG, provenance, evidence, citation and evaluation foundations |
+| 🚀 **Recent Research Papers** | 9 | Agentic research, citation evaluation, hallucination and scientific synthesis |
+| **Total** | **20** | Multidimensional evidence-traceability research base |
+
+---
+ 
   See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
 ---
 
