@@ -9,7 +9,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - 📚[Survey Papers](#-survey-papers)
 - 🏛️[Foundational Papers](#-foundational-papers)
 - 📊[Datasets](#-datasets)
-- 🛠️[Tools & Libraries](#-tools-and-libraries)
+- 🛠️[Tools & Libraries](#-tools-&-libraries)
 - 💻[GitHub Implementations](#-github-implementations)
 - 🎓[Tutorials](#-tutorials)
 - 🔍[Citation Integrity Audit](#-citation-integrity-audit)
