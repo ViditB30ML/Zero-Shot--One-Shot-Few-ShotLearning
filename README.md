@@ -1,4 +1,4 @@
-# 🎯 Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
+# 🎯 Designing Evidence - Traceability Metrics for Agentic Literature Synthesis Pipelines
 
 Welcome to the ultimate resource hub for researchers and practitioners dedicated to advancing **evidence-traceability metrics** in **agentic literature synthesis pipelines**. This curated collection brings together cutting-edge papers, datasets, tools, implementations, and tutorials to foster transparency, reproducibility, and accountability in automated literature synthesis.
 
@@ -8,13 +8,12 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - 📄[AI-Assisted Research Paper](#ai-assisted-research-paper)
 - 📚[Survey Papers](#-survey-papers)
 - 🏛️[Foundational Papers](#-foundational-papers)
-- 🔬[Recent Research Papers](#-recent-research-papers)
 - 📊[Datasets](#-datasets)
 - 🛠️[Tools and Libraries](#-tools-and-libraries)
 - 💻[GitHub Implementations](#-github-implementations)
 - 🎓[Tutorials](#-tutorials)
 - 🔍[Citation Integrity Audit](#-citation-integrity-audit)
-- [📜 License](#-license)
+- 📜[License](#-license)
 ---
 
 ## 🔬 Overview
@@ -59,14 +58,8 @@ This repository includes the AI-assisted research paper prepared for the researc
 - **Foundations:**
   - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
   - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
+    
 See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
----
-
-## 🔬 Recent Research Highlights
-
-- [Advances in Agentic Literature Pipelines](papers/Recent_Advances.pdf)
-- [Evaluation Frameworks for Traceability Metrics](papers/Evaluation_Frameworks.pdf)
-
 ---
 
 ## 📊 Datasets
@@ -221,66 +214,6 @@ For a practical prototype of an **agentic literature synthesis pipeline**, the f
 | 🧪 LLM Evaluation | **DeepEval** |
 | 📈 Experiment Tracking | **MLflow** |
 | 🧾 Provenance | **W3C PROV** |
-
----
-
-## 🔬 Evidence-Traceability Workflow
-
-```text
-┌──────────────────────────────────────────┐
-│          Scholarly Literature             │
-│ OpenAlex / Semantic Scholar / PubMed     │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│       Scientific Document Processing      │
-│             GROBID / PyMuPDF              │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│          Retrieval & RAG Layer            │
-│ LlamaIndex / LangChain / Qdrant / FAISS  │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│        Agentic Research Workflow          │
-│                 LangGraph                 │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│          Evidence Extraction              │
-│      Claim → Passage → Source             │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│       Citation & Provenance Layer         │
-│       Crossref / W3C PROV                 │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│          Trace & Observability            │
-│   OpenTelemetry / OpenInference / Phoenix │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│             Evaluation Layer              │
-│       Ragas / DeepEval / FActScore        │
-└───────────────────┬──────────────────────┘
-                    │
-                    ▼
-┌──────────────────────────────────────────┐
-│       Evidence-Traceability Metrics       │
-│ Retrieval | Evidence | Citation |        │
-│ Faithfulness | Provenance | Agent Trace  │
-└──────────────────────────────────────────┘
-
 
 ---
 
