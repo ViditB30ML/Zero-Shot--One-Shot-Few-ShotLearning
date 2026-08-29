@@ -4,7 +4,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 
 ---
 ## 🚀 What’s Inside
-- 🔎[Overview](#-overview)
+- 🔎[Overrterview](#-overview)
 - 📄[AI-Assisted Research Paper](#ai-assisted-research-paper)
 - 📚[Curated Research Papers](#curated-research-papers)
     - [Foundational Papers](#-foundational-papers)
