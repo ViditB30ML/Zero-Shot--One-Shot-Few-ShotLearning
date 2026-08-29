@@ -1,5 +1,3 @@
-Certainly! Here's a sample entry for your `datasets.md` file related to the topic **“Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines”**. This includes relevant datasets that can support research in evidence traceability, literature synthesis, and agentic information processing.
-
 ---
 
 ## Datasets for Evidence-Traceability and Literature Synthesis
