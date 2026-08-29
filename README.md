@@ -38,7 +38,7 @@ This repository includes the AI-assisted research paper prepared for the researc
 ### ⓘ Paper Information
 
 - **Topic:** Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
-- **Purpose:** Study the relationship between prompt variations and the stability of LLM-generated research conclusions.
+- **Purpose:** It focuses on developing measurable, systematic, and reproducible ways to determine whether an AI research agent can support its synthesized conclusions with the right scientific evidence.
 - **AI Tool Used:** ChatGPT/Claude
 - **Research Type:** Literature-based research
 - **Paper Format:** PDF
