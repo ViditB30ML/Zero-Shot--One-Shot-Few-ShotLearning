@@ -6,15 +6,15 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 ## 🚀 What’s Inside
 - [🔎 Overview](#-overview)
 - [📄 AI-Assisted Research Paper](#-ai-assisted-research-paper)
-- [📚 Survey and Review Papers](#-survey-and-review-papers)
-- [🏛️ Foundational and Calibration Papers](#-foundational-and-calibration-papers)
-- [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
+- [📚 Survey Papers](#-survey-papers)
+- [🏛️ Foundational Papers](#-foundational-papers)
+- [🔬 Recent Research Papers](#-recent-research-papers)
+- [📊 Datasets](#-datasets)
 - [🛠️ Tools and Libraries](#-tools-and-libraries)
 - [💻 GitHub Implementations](#-github-implementations)
-- [🎓 Tutorials and Learning Resources](#-tutorials-and-learning-resources)
+- [🎓 Tutorials](#-tutorials)
 - [🔍 Citation Integrity Audit](#-citation-integrity-audit)
 - [📜 License](#-license)
-
 
 ---
 ## 📄 Research Papers
