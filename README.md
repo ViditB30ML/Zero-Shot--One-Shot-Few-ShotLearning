@@ -65,65 +65,62 @@ The papers are organized into three categories:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey
    [arXiv:2312.10997](https://arxiv.org/abs/2312.10997)
  
----
 2. TRUE: Re-evaluating Factual Consistency Evaluation
    [ACL Anthology](https://aclanthology.org/2022.naacl-main.287/)
 ---
 ## 🏛️ Foundational Papers
 3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
    [arXiv:2005.11401](https://arxiv.org/abs/2005.11401)
----
+
 4. Provenance in Collection-Oriented Scientific Workflows
    [10.1002/cpe.1226](https://doi.org/10.1002/cpe.1226)
----
+
 5. KILT: A Benchmark for Knowledge Intensive Language Tasks
    [ACL Anthology](https://aclanthology.org/2021.naacl-main.200/)
 
----
 6. Evidence Inference 2.0: More Data, Better Models
    [ACL Anthology](https://aclanthology.org/2020.bionlp-1.13/)
----
+
 7. Enabling Large Language Models to Generate Text with Citations
    [ACL Anthology](https://aclanthology.org/2023.emnlp-main.398/)
----
+
 8. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
    [ACL Anthology](https://aclanthology.org/2023.emnlp-main.741/)
----
+
 9. PubMedQA: A Dataset for Biomedical Research Question Answering
    [ACL Anthology](https://aclanthology.org/D19-1259/)
----
+
 10. RAGAs: Automated Evaluation of Retrieval Augmented Generation
     [ACL Anthology](https://aclanthology.org/2024.eacl-demo.16/)
----
+
 11. ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems
     [ACL Anthology](https://aclanthology.org/2024.naacl-long.20/)
 ---
 ## 🚀 Recent Research Papers
 12. Synthesizing Scientific Literature with Retrieval-Augmented Language Models
     [10.1038/s41586-025-10072-4](https://doi.org/10.1038/s41586-025-10072-4)
----
+
 13. DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents
     [arXiv:2506.11763](https://arxiv.org/abs/2506.11763)
----
+
 14. Agent Laboratory: Using LLM Agents as Research Assistants
     [arXiv:2501.04227](https://arxiv.org/abs/2501.04227)
     
----
 15. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
     [arXiv:2310.11511](https://arxiv.org/abs/2310.11511)
----
+
 16. RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models
     [ACL Anthology](https://aclanthology.org/2024.acl-long.585/)
----
+
 17. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics
     [ACL Anthology](https://aclanthology.org/2024.inlg-main.35/)
----
+
 18. Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models
     [ACL Anthology](https://aclanthology.org/2024.naacl-long.347/)
----
+
 19. PaperQA: Retrieval-Augmented Generative Agent for Scientific Research
     [arXiv:2312.07559](https://arxiv.org/abs/2312.07559)
----
+
 20. FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows
     [10.1098/rsta.2021.0300](https://doi.org/10.1098/rsta.2021.0300)
 ---
