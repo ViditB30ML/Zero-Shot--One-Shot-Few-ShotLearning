@@ -66,9 +66,9 @@ The papers are organized into three categories:
 
 ## 📖 Survey Papers
 
-### 1. Retrieval-Augmented Generation for Large Language Models: A Survey
+**1. Retrieval-Augmented Generation for Large Language Models: A Survey**
 ---
-### 2. TRUE: Re-evaluating Factual Consistency Evaluation
+**2. TRUE: Re-evaluating Factual Consistency Evaluation**
 ---
 ## 🏛️ Foundational Papers
 **3. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**
