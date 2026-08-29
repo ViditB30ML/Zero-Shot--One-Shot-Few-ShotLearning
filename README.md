@@ -80,6 +80,6 @@ A citation/resource audit was prepared to verify the references appearing in the
 ## 📜 License
 
 This repository is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
+See the **[LICENSE](LICENSE)** file for details.
 
 ---
