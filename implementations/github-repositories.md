@@ -58,6 +58,3 @@ This section contains open-source GitHub repositories related to LLM factuality,
 
 ---
 
-**Note:** The above repositories are illustrative examples crafted for your topic. For actual repositories, I recommend searching GitHub with keywords such as “evidence traceability,” “literature synthesis,” “agentic pipelines,” and “metrics evaluation” to find open-source projects, frameworks, or datasets aligned with your research focus.
-
-Would you like assistance with specific search strategies or recommendations for related literature?
