@@ -174,7 +174,7 @@ A curated collection of tools and libraries supporting **scholarly retrieval, sc
 | 📦 [Apache Tika](https://tika.apache.org/) | Document content extraction | Large-scale heterogeneous document processing |
 
 > **Why GROBID?**  
-> GROBID is specifically designed for extracting and restructuring scientific publications into machine-readable TEI/XML. It can extract bibliographic metadata, references, citation contexts, full-text structures, and PDF coordinates, making it particularly useful for evidence localization and citation traceability. Ggrobid.readthedocs.io+1
+> GROBID is specifically designed for extracting and restructuring scientific publications into machine-readable TEI/XML. It can extract bibliographic metadata, references, citation contexts, full-text structures, and PDF coordinates, making it particularly useful for evidence localization and citation traceability.
 
 
 ---
