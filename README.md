@@ -5,15 +5,15 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 ---
 ## 🚀 What’s Inside
 - 🔎[Overview](#-overview)
-- [📄 AI-Assisted Research Paper](#ai-assisted-research-paper)
-- [📚 Survey Papers](#-survey-papers)
-- [🏛️ Foundational Papers](#-foundational-papers)
-- [🔬 Recent Research Papers](#-recent-research-papers)
-- [📊 Datasets](#-datasets)
-- [🛠️ Tools and Libraries](#-tools-and-libraries)
-- [💻 GitHub Implementations](#-github-implementations)
-- [🎓 Tutorials](#-tutorials)
-- [🔍 Citation Integrity Audit](#-citation-integrity-audit)
+- 📄[AI-Assisted Research Paper](#ai-assisted-research-paper)
+- 📚[Survey Papers](#-survey-papers)
+- 🏛️[Foundational Papers](#-foundational-papers)
+- 🔬[Recent Research Papers](#-recent-research-papers)
+- 📊[Datasets](#-datasets)
+- 🛠️[Tools and Libraries](#-tools-and-libraries)
+- 💻[GitHub Implementations](#-github-implementations)
+- 🎓[Tutorials](#-tutorials)
+- 🔍[Citation Integrity Audit](#-citation-integrity-audit)
 - [📜 License](#-license)
 ---
 
@@ -59,7 +59,7 @@ This repository includes the AI-assisted research paper prepared for the researc
 - **Foundations:**
   - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
   - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
-
+See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
 ---
 
 ## 🔬 Recent Research Highlights
@@ -79,8 +79,208 @@ The assignment requires at least three relevant datasets/benchmarks. This reposi
 
 ## 🛠️ Tools & Libraries
 
-- **[Traceability Metric Toolkit](https://github.com/username/traceability-metrics):** Essential tools for measuring traceability
-- **[Literature Synthesis Pipeline Framework](https://github.com/username/lit-synthesis-framework):** Build your automated literature pipelines
+A curated collection of tools and libraries supporting **scholarly retrieval, scientific document processing, Retrieval-Augmented Generation (RAG), agent orchestration, evidence evaluation, citation verification, provenance tracking, and experiment monitoring**.
+
+---
+
+### 📚 1. Scholarly Literature Retrieval
+
+| Tool / Library | Purpose | Application to Evidence Traceability |
+|---|---|---|
+| 🔎 [OpenAlex](https://openalex.org/) | Scholarly metadata and literature discovery | Source identification, citation networks, bibliographic metadata |
+| 🔎 [Semantic Scholar](https://www.semanticscholar.org/) | Academic search and citation discovery | Literature retrieval and citation relationship analysis |
+| 🧾 [Crossref](https://www.crossref.org/) | DOI and publication metadata | Citation and DOI verification |
+| 🧬 [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | Biomedical literature retrieval | Scientific evidence discovery |
+| 📚 [Europe PMC](https://europepmc.org/) | Biomedical literature and full-text search | Evidence retrieval and source identification |
+| 📄 [arXiv](https://arxiv.org/) | Scientific preprints | Retrieval of recent research literature |
+
+---
+
+### 📄 2. Scientific Document Processing
+
+| Tool / Library | Purpose | Traceability Application |
+|---|---|---|
+| 📑 [GROBID](https://github.com/kermitt2/grobid) | Scientific PDF parsing | Metadata, citations, sections and evidence extraction |
+| 📄 [PyMuPDF](https://pymupdf.readthedocs.io/) | PDF text and metadata extraction | Page- and passage-level evidence localization |
+| 🧩 [Unstructured](https://github.com/Unstructured-IO/unstructured) | Document preprocessing | PDF/HTML processing for RAG |
+| 📦 [Apache Tika](https://tika.apache.org/) | Document content extraction | Large-scale heterogeneous document processing |
+
+> **Why GROBID?**  
+> GROBID is specifically designed for extracting and restructuring scientific publications into machine-readable TEI/XML. It can extract bibliographic metadata, references, citation contexts, full-text structures, and PDF coordinates, making it particularly useful for evidence localization and citation traceability. Ggrobid.readthedocs.io+1
+
+
+---
+
+### 🧠 3. RAG & Knowledge Pipelines
+
+| Tool / Library | Purpose | Evidence-Traceability Application |
+|---|---|---|
+| 🦙 [LlamaIndex](https://www.llamaindex.ai/) | Data ingestion, indexing and RAG | Scientific literature indexing and evidence retrieval |
+| 🦜 [LangChain](https://www.langchain.com/) | LLM and RAG applications | Retrieval, tools, agents and synthesis |
+| 🌾 [Haystack](https://haystack.deepset.ai/) | Search and RAG pipelines | Evidence retrieval and grounded generation |
+| 🧮 [FAISS](https://github.com/facebookresearch/faiss) | Vector similarity search | Passage-level evidence retrieval |
+| 🗃️ [Qdrant](https://qdrant.tech/) | Vector database | Metadata-aware evidence storage and retrieval |
+| 🗄️ [Weaviate](https://weaviate.io/) | Vector database | Semantic search and retrieval |
+
+---
+
+### 🤖 4. Agentic Research & Workflow Orchestration
+
+| Tool / Library | Purpose | Research Application |
+|---|---|---|
+| 🔗 [LangGraph](https://www.langchain.com/langgraph) | Stateful agent workflows | Multi-step literature research agents |
+| 🤝 [AutoGen](https://github.com/microsoft/autogen) | Multi-agent orchestration | Collaborative research agents |
+| 👥 [CrewAI](https://github.com/crewAIInc/crewAI) | Role-based agents | Research task decomposition |
+| 🧪 [DSPy](https://github.com/stanfordnlp/dspy) | Programmatic LLM pipelines | Optimizable research workflows |
+
+---
+
+### 📊 5. Evidence & RAG Evaluation
+
+| Tool / Library | Main Focus | Potential Metric |
+|---|---|---|
+| 📏 [Ragas](https://docs.ragas.io/) | RAG and agent evaluation | Faithfulness, relevance, retrieval quality |
+| 🧪 [DeepEval](https://github.com/confident-ai/deepeval) | LLM/RAG evaluation | Faithfulness, hallucination, relevance |
+| 🔬 [ARES](https://github.com/stanford-futuredata/ARES) | RAG evaluation | Context relevance, faithfulness, answer relevance |
+| 📌 [FActScore](https://github.com/shmsw25/FActScore) | Atomic factuality | Claim-level factual precision |
+| ✅ [TRUE](https://github.com/google/TRUE) | Factual consistency | Source-grounded factuality |
+
+---
+
+### 🧭 6. Tracing & Observability
+
+| Tool / Library | Purpose | Evidence-Traceability Use |
+|---|---|---|
+| 🔥 [Arize Phoenix](https://phoenix.arize.com/) | LLM observability | Agent, retrieval and tool-call tracing |
+| 📡 [OpenTelemetry](https://opentelemetry.io/) | Distributed tracing | Standardized workflow execution traces |
+| 🔬 [OpenInference](https://github.com/Arize-ai/openinference) | AI/LLM instrumentation | Semantic tracing of LLM applications |
+| 🧵 [LangSmith](https://smith.langchain.com/) | LLM observability | Agent trajectory and retrieval inspection |
+
+---
+
+### 🧪 7. Experiment Tracking & Reproducibility
+
+| Tool / Library | Purpose | Research Application |
+|---|---|---|
+| 📈 [MLflow](https://mlflow.org/) | Experiment tracking | Compare models, prompts and metrics |
+| 📊 [Weights & Biases](https://wandb.ai/) | Experiment management | Track evaluation experiments |
+| 🗂️ [DVC](https://dvc.org/) | Dataset/version control | Reproducible research datasets |
+| 🌳 [Git](https://git-scm.com/) | Version control | Version code, metrics and configurations |
+
+---
+
+### 🔗 8. Provenance & Citation Infrastructure
+
+| Standard / Tool | Purpose | Application |
+|---|---|---|
+| 🧾 [W3C PROV](https://www.w3.org/TR/prov-overview/) | Provenance modelling | Represent evidence lineage |
+| 🔗 [Crossref](https://www.crossref.org/) | Persistent scholarly metadata | DOI and citation verification |
+| 🆔 [DataCite](https://datacite.org/) | Persistent identifiers | Dataset and research-object identification |
+| 👤 [ORCID](https://orcid.org/) | Researcher identification | Author disambiguation |
+
+---
+
+## 🎯 Tool-to-Metric Mapping
+
+The following mapping connects tools with the major dimensions of an evidence-traceability framework.
+
+| Evidence-Traceability Dimension | Recommended Tools |
+|---|---|
+| 🔎 **Retrieval Coverage** | OpenAlex, Semantic Scholar, Ragas |
+| 🎯 **Retrieval Precision** | Ragas, DeepEval |
+| 📚 **Evidence Relevance** | Ragas, DeepEval |
+| 📍 **Evidence Localization** | GROBID, PyMuPDF |
+| 🔗 **Claim–Evidence Alignment** | Ragas, DeepEval, custom evaluators |
+| 🧾 **Citation Correctness** | Crossref, GROBID |
+| 📑 **Citation Completeness** | Crossref, OpenAlex |
+| 🧠 **Faithfulness** | Ragas, DeepEval |
+| 🚨 **Hallucination Rate** | DeepEval, FActScore |
+| 🤖 **Agent Trajectory** | LangGraph, Phoenix, OpenTelemetry |
+| 🧭 **Provenance Completeness** | W3C PROV, OpenTelemetry |
+| 📊 **Experiment Reproducibility** | MLflow, DVC, Git |
+| 🔬 **Workflow Traceability** | LangGraph, Phoenix |
+| ✅ **Overall Evidence Traceability** | Combined evaluation framework |
+
+---
+
+## 🏗️ Recommended Research Stack
+
+For a practical prototype of an **agentic literature synthesis pipeline**, the following stack is recommended:
+
+| Pipeline Layer | Recommended Tool |
+|---|---|
+| 🔎 Literature Discovery | **OpenAlex + Semantic Scholar** |
+| 🧾 Metadata Verification | **Crossref** |
+| 📄 Scientific PDF Processing | **GROBID + PyMuPDF** |
+| 🧮 Vector Retrieval | **Qdrant / FAISS** |
+| 📚 RAG | **LlamaIndex / LangChain** |
+| 🤖 Agent Orchestration | **LangGraph** |
+| 🧭 Trace Collection | **OpenTelemetry + OpenInference** |
+| 🔬 Observability | **Phoenix** |
+| 📏 RAG Evaluation | **Ragas** |
+| 🧪 LLM Evaluation | **DeepEval** |
+| 📈 Experiment Tracking | **MLflow** |
+| 🧾 Provenance | **W3C PROV** |
+
+---
+
+## 🔬 Evidence-Traceability Workflow
+
+```text
+┌──────────────────────────────────────────┐
+│          Scholarly Literature             │
+│ OpenAlex / Semantic Scholar / PubMed     │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│       Scientific Document Processing      │
+│             GROBID / PyMuPDF              │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│          Retrieval & RAG Layer            │
+│ LlamaIndex / LangChain / Qdrant / FAISS  │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│        Agentic Research Workflow          │
+│                 LangGraph                 │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│          Evidence Extraction              │
+│      Claim → Passage → Source             │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│       Citation & Provenance Layer         │
+│       Crossref / W3C PROV                 │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│          Trace & Observability            │
+│   OpenTelemetry / OpenInference / Phoenix │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│             Evaluation Layer              │
+│       Ragas / DeepEval / FActScore        │
+└───────────────────┬──────────────────────┘
+                    │
+                    ▼
+┌──────────────────────────────────────────┐
+│       Evidence-Traceability Metrics       │
+│ Retrieval | Evidence | Citation |        │
+│ Faithfulness | Provenance | Agent Trace  │
+└──────────────────────────────────────────┘
+
 
 ---
 
