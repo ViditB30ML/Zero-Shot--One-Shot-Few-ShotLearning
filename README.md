@@ -1,102 +1,12 @@
-# 🎯 Awesome Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
-
-Welcome to the ultimate resource hub for researchers and practitioners dedicated to advancing **evidence-traceability metrics** in **agentic literature synthesis pipelines**. This curated collection brings together cutting-edge papers, datasets, tools, implementations, and tutorials to foster transparency, reproducibility, and accountability in automated literature synthesis.
-
----
-
-## 🚀 What’s Inside
-
-- **Overview:** Introduction & purpose
-- **Research Papers:** Foundational and recent studies
-- **Survey & Foundational Papers:** Key survey articles and core concepts
-- **Recent Research:** Latest updates and frameworks
-- **Datasets:** Benchmark data and annotations
-- **Tools & Libraries:** Essential software for your projects
-- **GitHub Implementations:** Practical code repositories
-- **Tutorials:** Step-by-step guides
-- **Citation Integrity Audit:** Ensuring reference accuracy
-- **License:** Usage rights & permissions
-
----
-
-## 📄 Research Papers
-
-🔗 [Designing Evidence-Traceability Metrics (PDF)](papers/Designing_Evidence_Traceability_Metrics.pdf)
-
----
-
-## 📚 Survey & Foundational Papers
-
-- **Surveys:**
-  - [Literature Synthesis Techniques](papers/Survey_Lit_Synthesis.pdf)
-  - [Traceability in Automated Literature Reviews](papers/Traceability_Survey.pdf)
-- **Foundations:**
-  - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
-  - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
-
----
-
-## 🔬 Recent Research Highlights
-
-- [Advances in Agentic Literature Pipelines](papers/Recent_Advances.pdf)
-- [Evaluation Frameworks for Traceability Metrics](papers/Evaluation_Frameworks.pdf)
-
----
-
-## 📊 Datasets
-
-- [Literature Synthesis Dataset](datasets/lit_synthesis_dataset.zip)
-- [Traceability Annotations Dataset](datasets/traceability_annotations.csv)
-
----
-
-## 🛠️ Tools & Libraries
-
-- **[Traceability Metric Toolkit](https://github.com/username/traceability-metrics):** Essential tools for measuring traceability
-- **[Literature Synthesis Pipeline Framework](https://github.com/username/lit-synthesis-framework):** Build your automated literature pipelines
-
----
-
-## 💻 GitHub Implementations
-
-- **[Evidence-Traceability Metrics Implementation](https://github.com/username/evidence-traceability-metrics)**
-- **[Agentic Literature Synthesis Pipeline](https://github.com/username/agentic-lit-synthesis)**
-
----
-
-## 🎓 Tutorials & Guides
-
-- [How to Evaluate Traceability Metrics](tutorials/evaluate_metrics.md)
-- [Building an Agentic Literature Pipeline](tutorials/build_pipeline.md)
-
----
-
-## 🔍 Citation Integrity Audit
-
-Ensure your references are accurate and reliable  
-[View Audit (PDF)](citation-audit/Citation_Integrity_Audit.pdf)
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
-
----
-
-✨ Dive in to explore, contribute, and advance the frontier of evidence-traceability in literature synthesis!
-
-# Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
+# 🎯 Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
 
 <!-- Short Description -->
-**Short Description:**  
 A comprehensive repository dedicated to developing and evaluating evidence-traceability metrics within agentic literature synthesis pipelines, aiming to improve transparency and reproducibility in automated research synthesis.  
 *What is given:* Scope and purpose of the repository.
 
 ---
 
-## Table of Contents
+## 🚀 Table of Contents
 - [Topic Overview](#topic-overview)  
 - [AI-Assisted Research Paper](#ai-assisted-research-paper)  
 - [Citation Integrity Audit](#citation-integrity-audit)  
@@ -119,7 +29,7 @@ The field of evidence-traceability in literature synthesis focuses on ensuring t
 
 ---
 
-## AI-Assisted Research Paper
+## 📄 AI-Assisted Research Paper
 **Title:**  
 "Automating Evidence-Traceability in Literature Synthesis Using AI"
 
@@ -131,6 +41,23 @@ This paper proposes a novel AI-driven framework for assessing evidence-traceabil
 
 *What is given:* Title, brief abstract, and link to your own paper repository.
 
+## 📚 Survey & Foundational Papers
+
+- **Surveys:**
+  - [Literature Synthesis Techniques](papers/Survey_Lit_Synthesis.pdf)
+  - [Traceability in Automated Literature Reviews](papers/Traceability_Survey.pdf)
+- **Foundations:**
+  - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
+  - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
+
+---
+
+## 🔬 Recent Research Highlights
+
+- [Advances in Agentic Literature Pipelines](papers/Recent_Advances.pdf)
+- [Evaluation Frameworks for Traceability Metrics](papers/Evaluation_Frameworks.pdf)
+
+---
 ---
 
 ## Citation Integrity Audit
