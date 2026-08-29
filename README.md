@@ -5,7 +5,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 ---
 ## 🚀 What’s Inside
 - [🔎 Overview](#-overview)
-- [📄 AI-Assisted Research Paper](#-ai-assisted-research-paper)
+- [📄 AI-Assisted Research Paper](#-AI-Assisted-Research-Paper)
 - [📚 Survey Papers](#-survey-papers)
 - [🏛️ Foundational Papers](#-foundational-papers)
 - [🔬 Recent Research Papers](#-recent-research-papers)
@@ -16,8 +16,6 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - [🔍 Citation Integrity Audit](#-citation-integrity-audit)
 - [📜 License](#-license)
 ---
-
-Here is a polished GitHub-ready Overview section suitable for your README.md:
 
 ## 🔬 Overview
 
