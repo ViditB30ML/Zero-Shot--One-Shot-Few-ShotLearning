@@ -46,11 +46,7 @@ This repository includes the AI-assisted research paper prepared for the researc
 **[View the AI-Assisted Research Paper](Paper/AI_Assisted_Research_Paper.pdf)**
 
 ---
-## 📄 Research Papers
 
-🔗 [Designing Evidence-Traceability Metrics (PDF)](papers/Designing_Evidence_Traceability_Metrics.pdf)
-
----
 
 ## 📚 Curated Research Papers
 
