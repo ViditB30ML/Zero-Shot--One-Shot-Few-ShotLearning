@@ -134,8 +134,6 @@ The papers are organized into three categories:
 | 🚀 **Recent Research Papers** | 9 | Agentic research, citation evaluation, hallucination and scientific synthesis |
 | **Total** | **20** | Multidimensional evidence-traceability research base |
 
----
- 
   See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
 ---
 
