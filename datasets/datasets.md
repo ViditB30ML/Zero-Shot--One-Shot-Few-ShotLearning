@@ -1,5 +1,3 @@
----
-
 ## Datasets for Evidence-Traceability and Literature Synthesis
 
 ### 1. **CORD-19 (COVID-19 Open Research Dataset)**
