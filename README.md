@@ -301,8 +301,13 @@ The implementations section considers documentation, source availability, mainte
 
 ## 🎓 Tutorials & Guides
 
-- [How to Evaluate Traceability Metrics]([tutorials/evaluate_metrics.md](https://github.com/dermot-r-cochran/architecture-definition-model/blob/main/docs/testing/traceability-matrix.md))
-- [Building an Agentic Literature Pipeline](tutorials/build_pipeline.md)
+## 1. Testing Traceability Matrix
+**Purpose:** This matrix maps capabilities to constraints, risks, and the evidence artifacts that demonstrate compliance. It is intended as a governance aid: auditors and release managers can use it to verify that every capability is both constrained and evidenced.  
+**Link:** https://github.com/dermot-r-cochran/architecture-definition-model/blob/main/docs/testing/traceability-matrix.md
+
+## 2. Building an AI Literature Review Pipeline
+**Purpose:**  A practical, auditable workflow for moving from a folder of PDFs to a structured literature matrix, conceptual streams, evidence audit, and responsible AI-supported synthesis.
+**Link:** https://academy.evalcommunity.com/building-an-ai-literature-review-pipeline/
 
 ---
 
