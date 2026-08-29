@@ -6,8 +6,10 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 ## 🚀 What’s Inside
 - 🔎[Overview](#-overview)
 - 📄[AI-Assisted Research Paper](#ai-assisted-research-paper)
-- 📚[Survey Papers](#-survey-papers)
-- 🏛️[Foundational Papers](#-foundational-papers)
+- 📚[Curated Research Papers](#curated-research-papers)
+    - [Foundational Papers](#-foundational-papers)
+    - [Survey and Review](#survey-and-review)
+    - [Recent Research](#recent-research)
 - 📊[Datasets](#-datasets)
 - 🛠️[Tools & Libraries](#-tools-&-libraries)
 - 💻[GitHub Implementations](#-github-implementations)
@@ -49,8 +51,6 @@ This repository includes the AI-assisted research paper prepared for the researc
 🔗 [Designing Evidence-Traceability Metrics (PDF)](papers/Designing_Evidence_Traceability_Metrics.pdf)
 
 ---
-
-## 📚 Survey & Foundational Papers
 
 ## 📚 Curated Research Papers
 
