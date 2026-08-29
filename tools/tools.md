@@ -891,14 +891,7 @@ Building trustworthy, transparent, reproducible, and auditable agentic literatur
 ⭐ If this resource is useful for your research, consider starring the repository!
 
 </p> ```
-GitHub rendering features included
 
-This version uses GitHub Flavored Markdown features such as:
-
-# / ## / ### headings
-GitHub-compatible tables
-[x] task/check lists
-<details> / <summary> collapsible sections
 Fenced text and json code blocks
 Blockquotes using >
 Emoji-based visual navigation
