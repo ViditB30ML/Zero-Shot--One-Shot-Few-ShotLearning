@@ -1,5 +1,3 @@
-Below is the same content as raw Markdown source for your tools.md file. You can copy everything inside the code block directly into GitHub.
-
 # 🛠️ Tools & Libraries
 
 > **A curated collection of tools, libraries, frameworks, and platforms for designing, implementing, tracing, and evaluating evidence-traceable agentic literature synthesis pipelines.**
