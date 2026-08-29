@@ -13,7 +13,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - [GitHub Implementations](#github-implementations)
 - [Tutorials and Learning Resources](#tutorials-and-learning-resources)
 - [Citation Integrity Audit](#citation-integrity-audit)
-- [License](#license)
+- [License](#-license)
 
 
 ---
