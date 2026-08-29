@@ -67,6 +67,8 @@ The papers are organized into three categories:
 ## 📖 Survey Papers
 
 1. Retrieval-Augmented Generation for Large Language Models: A Survey
+   **Paper:** [arXiv:2312.10997](https://arxiv.org/abs/2312.10997)
+
 ---
 **2. TRUE: Re-evaluating Factual Consistency Evaluation**
 ---
