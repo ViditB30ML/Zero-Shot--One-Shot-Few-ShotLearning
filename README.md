@@ -87,7 +87,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ✨ Dive in to explore, contribute, and advance the frontier of evidence-traceability in literature synthesis!
 
-# Example: Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
+#Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
 
 <!-- Short Description -->
 **Short Description:**  
