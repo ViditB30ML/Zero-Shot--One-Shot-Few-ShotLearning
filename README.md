@@ -301,7 +301,7 @@ The implementations section considers documentation, source availability, mainte
 
 ## 🎓 Tutorials & Guides
 
-- [How to Evaluate Traceability Metrics](tutorials/evaluate_metrics.md)
+- [How to Evaluate Traceability Metrics]([tutorials/evaluate_metrics.md](https://github.com/dermot-r-cochran/architecture-definition-model/blob/main/docs/testing/traceability-matrix.md))
 - [Building an Agentic Literature Pipeline](tutorials/build_pipeline.md)
 
 ---
