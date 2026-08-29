@@ -59,7 +59,7 @@ This repository includes the AI-assisted research paper prepared for the researc
   - [Core Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
   - [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
     
-See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
+  See the complete metadata, links, and relevance notes in **[references/references.md](references/references.md)**.
 ---
 
 ## 📊 Datasets
