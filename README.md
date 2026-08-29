@@ -1,51 +1,57 @@
-Welcome !
-Here we have various ML learning techniques from verified sources. This repository will help us to dive into core concepts of Machine Learning.
+# Awesome Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
 
-# Contents
-* [Link Text](#contents)
+A curated collection of research papers, datasets, tools, implementations, and learning resources related to designing evidence-traceability metrics for agentic literature synthesis pipelines.
 
-## A second-level heading
-### A third-level heading
+## Contents
+- Overview
+- Research Papers
+- Survey Papers
+- Foundational Papers
+- Recent Research
+- Datasets
+- Tools and Libraries
+- GitHub Implementations
+- Tutorials
+- Citation Integrity Audit
+- License
 
-# Source - https://stackoverflow.com/a/69921468
+## Overview
+This repository compiles key resources and tools for developing and evaluating evidence-traceability metrics within agentic literature synthesis pipelines. It aims to support researchers and practitioners working on enhancing transparency, reproducibility, and accountability in automated literature synthesis processes.
 
+## Research Papers
 
-# Creating an example workflow
+[View Paper](papers/Designing_Evidence_Traceability_Metrics.pdf)
 
-In this tutorial, you'll learn how to create a basic workflow that is triggered by a push event.
+## Survey Papers
+- [Survey on Literature Synthesis Techniques](papers/Survey_Lit_Synthesis.pdf)
+- [Traceability in Automated Literature Reviews](papers/Traceability_Survey.pdf)
 
-## Introduction
+## Foundational Papers
+- [Foundational Concepts in Evidence Traceability](papers/Foundational_Concepts.pdf)
+- [Metrics for Traceability in Knowledge Synthesis](papers/Metrics_for_Traceability.pdf)
 
-This guide shows you how to create a basic workflow that is triggered when code is pushed to your repository.
+## Recent Research
+- [Recent Advances in Agentic Literature Pipelines](papers/Recent_Advances.pdf)
+- [Evaluation Frameworks for Traceability Metrics](papers/Evaluation_Frameworks.pdf)
 
-To get started with preconfigured workflows, browse through the list of templates in the [actions/starter-workflows](https://github.com/actions/starter-workflows) repository. For more information, see [Using workflow templates](/en/actions/how-tos/write-workflows/use-workflow-templates).
+## Datasets
+- [Literature Synthesis Dataset](datasets/lit_synthesis_dataset.zip)
+- [Traceability Annotations Dataset](datasets/traceability_annotations.csv)
 
-> This is a blockquote on GitHub.
+## Tools and Libraries
+- [Traceability Metric Toolkit](https://github.com/username/traceability-metrics)
+- [Literature Synthesis Pipeline Framework](https://github.com/username/lit-synthesis-framework)
 
-> \[!IMPORTANT] For more information about best practices for securing your workflows and secure use of GitHub Actions features, see [Secure use reference](/en/actions/reference/security/secure-use#writing-workflows).
->
+## GitHub Implementations
+- [Implementation of Evidence-Traceability Metrics](https://github.com/username/evidence-traceability-metrics)
+- [Agentic Literature Synthesis Pipeline](https://github.com/username/agentic-lit-synthesis)
 
-<details>
-  <summary>Click here to expand</summary>
+## Tutorials
+- [How to Evaluate Traceability Metrics](tutorials/evaluate_metrics.md)
+- [Building an Agentic Literature Pipeline](tutorials/build_pipeline.md)
 
-  This content is hidden by default. You can include paragraphs, images, or even code blocks here.
-  
-</details>
+## Citation Integrity Audit
+[View Audit](citation-audit/Citation_Integrity_Audit.pdf)
 
-qwewqeqwewqe
-
-[GitHub Pages](https://pages.github.com/).
-
-## Code of conduct
-
-This project has adopted a [Code of Conduct][code-of-conduct]. By participating, you agree to abide by its terms.
-
-## Support
-
-For help, questions, and how to file issues, see [`SUPPORT.md`][support].
-
-Here is a sentence that requires a first reference[^1].
-You can also add a completely different second reference later in the paragraph[^2].
-
-
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
