@@ -8,7 +8,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - 📄[AI-Assisted Research Paper](#ai-assisted-research-paper)
 - 📚 [Curated Research Papers](#-curated-research-papers)
   - [Survey and Review](#-survey-papers)
-  - [Foundational Papers](#-foundational-papers)
+  - [Foundational Papers](#foundational-papers)
   - [Recent Research](#-recent-research-papers)
 - 📊[Datasets](#-datasets)
 - 🛠️[Tools and Libraries](#tools-and-libraries)
