@@ -11,7 +11,7 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - 📊[Datasets](#-datasets)
 - 🛠️[Tools & Libraries](#-tools-&-libraries)
 - 💻[GitHub Implementations](#-github-implementations)
-- 🎓[Tutorials](#-tutorials)
+- 🎓[Tutorials](#-tutorials-&-guides)
 - 🔍[Citation Integrity Audit](#-citation-integrity-audit)
 - 📜[License](#-license)
 ---
