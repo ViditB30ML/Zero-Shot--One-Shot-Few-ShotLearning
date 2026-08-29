@@ -1,4 +1,4 @@
-# 🎯 Awesome Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
+# 🎯 Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
 
 Welcome to the ultimate resource hub for researchers and practitioners dedicated to advancing **evidence-traceability metrics** in **agentic literature synthesis pipelines**. This curated collection brings together cutting-edge papers, datasets, tools, implementations, and tutorials to foster transparency, reproducibility, and accountability in automated literature synthesis.
 
@@ -15,6 +15,21 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - [🎓 Tutorials](#-tutorials)
 - [🔍 Citation Integrity Audit](#-citation-integrity-audit)
 - [📜 License](#-license)
+
+---
+## 📃AI-Assisted Research Paper
+
+This repository includes the AI-assisted research paper prepared for the research topic:
+
+### ⓘ Paper Information
+
+- **Topic:** Designing Evidence-Traceability Metrics for Agentic Literature Synthesis Pipelines
+- **Purpose:** Study the relationship between prompt variations and the stability of LLM-generated research conclusions.
+- **AI Tool Used:** ChatGPT/Claude
+- **Research Type:** Literature-based research
+- **Paper Format:** PDF
+
+**[View the AI-Assisted Research Paper](Paper/AI_Assisted_Research_Paper.pdf)**
 
 ---
 ## 📄 Research Papers
@@ -70,7 +85,7 @@ The implementations section considers documentation, source availability, mainte
 
 ---
 
-## Citation Integrity Audit
+## 🔍 Citation Integrity Audit
 
 A citation/resource audit was prepared to verify the references appearing in the supplied paper and to document the verification rules used for the curated collection.
 
