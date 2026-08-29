@@ -18,7 +18,24 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 - **License:** Usage rights & permissions
 
 ---
+## 🚀 What’s Inside
+- [Overview](#overview)
+- [AI-Assisted Research Paper](#ai-assisted-research-paper)
+- [Citation Integrity Audit](#citation-integrity-audit)
+- [Claim-Citation Audit](#claim-citation-audit)
+- [Survey and Review Papers](#survey-and-review-papers)
+- [Foundational and Calibration Papers](#foundational-and-calibration-papers)
+- [Token and Semantic Uncertainty](#token-and-semantic-uncertainty)
+- [Hallucination and Factuality Evaluation](#hallucination-and-factuality-evaluation)
+- [Mitigation and Verifiability](#mitigation-and-verifiability)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+- [Tools and Libraries](#tools-and-libraries)
+- [GitHub Implementations](#github-implementations)
+- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
+- [License](#license)
 
+
+---
 ## 📄 Research Papers
 
 🔗 [Designing Evidence-Traceability Metrics (PDF)](papers/Designing_Evidence_Traceability_Metrics.pdf)
