@@ -43,8 +43,9 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 
 ## 📊 Datasets
 
-- [Literature Synthesis Dataset](datasets/lit_synthesis_dataset.zip)
-- [Traceability Annotations Dataset](datasets/traceability_annotations.csv)
+The assignment requires at least three relevant datasets/benchmarks. This repository includes five.
+
+**[Open the complete dataset/benchmark list](datasets/datasets.md)**
 
 ---
 
@@ -56,9 +57,9 @@ Welcome to the ultimate resource hub for researchers and practitioners dedicated
 ---
 
 ## 💻 GitHub Implementations
+The implementations section considers documentation, source availability, maintenance/activity, reproducibility, licensing, and connection to research—not popularity alone.
+
 **[Open the complete implementation list](implementations/github-repositories.md)**
-- **[Evidence-Traceability Metrics Implementation](https://github.com/username/evidence-traceability-metrics)**
-- **[Agentic Literature Synthesis Pipeline](https://github.com/username/agentic-lit-synthesis)**
 
 ---
 
